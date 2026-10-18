@@ -62,6 +62,6 @@
 
 
 
-(![Profile Views](https://komarev.com/ghpvc/?username=saurabhhdev)
+![](https://komarev.com/ghpvc/?username=saurabhhdev&style=flat-square)
 )
 [![wakatime](https://wakatime.com/badge/user/d2ef28c5-03b3-4c46-9c5e-93acfee9b7a7.svg)](https://wakatime.com/@d2ef28c5-03b3-4c46-9c5e-93acfee9b7a7)
