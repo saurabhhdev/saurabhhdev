@@ -65,7 +65,4 @@
 
 
 
-
-
-
-![snake gif](https://github.com/saurabhhdev/saurabhhdev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saurabhhdev/saurabhhdev/blob/output/github-contribution-grid-snake.gif)
