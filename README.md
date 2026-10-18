@@ -73,4 +73,4 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saurabhhdev&color=7c3aed&style=flat-square&label=Profile+Views)
-[![wakatime](https://wakatime.com/badge/user/2bc3f9b2-b67b-4491-938e-33b394cfbc34.svg)](https://wakatime.com/@2bc3f9b2-b67b-4491-938e-33b394cfbc34)
+[![wakatime](https://wakatime.com/@d2ef28c5-03b3-4c46-9c5e-93acfee9b7a7.svg)](https://wakatime.com/@d2ef28c5-03b3-4c46-9c5e-93acfee9b7a7)
